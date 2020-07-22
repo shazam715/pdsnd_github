@@ -2,7 +2,7 @@
 Creation Date: 22 Jul 2020
 
 ### Project Title
-Version Control Project - T. Snowden PDSND - Udacity
+:sparkles: Version Control Project - T. Snowden PDSND - Udacity :sparkles:
 
 ### Description
 Updating and sharing of earlier python project for PDSND with Udacity.
