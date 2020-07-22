@@ -3,8 +3,9 @@ Creation Date: 22 Jul 2020
 
 ### Project Title
 Version Control Project - T. Snowden PDSND - Udacity
+
 ### Description
-Describe what your project is about and what it does
+Updating and sharing of earlier python project for PDSND with Udacity.
 
 ### Files used
 Include the files used
