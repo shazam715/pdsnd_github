@@ -11,5 +11,8 @@ Updating and sharing of earlier python project for PDSND with Udacity.
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+References / Links
+-------------------
+[Markdown Guide from GitHub](https://guides.github.com/features/mastering-markdown/)
+[Markdown Quick Reference](https://en.support.wordpress.com/markdown-quick-reference/)
+[Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
