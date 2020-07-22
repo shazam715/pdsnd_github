@@ -216,10 +216,10 @@ def main():
         df = load_data(city, month, day)
 
         # Run all desired functions/statistics and provide raw data
-        time_stats(df)
-        station_stats(df)
-        trip_duration_stats(df)
         user_stats(df)
+        station_stats(df)
+        time_stats(df)
+        trip_duration_stats(df)
         show_raw(df)
 
         # Decision to start over or end
